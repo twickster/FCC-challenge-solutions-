@@ -1,2 +1,2 @@
 # FCC-challenge-solutions-
-My solutions to the algorythm challanges on Free Code Camp.
+My solutions to the algorithm challanges on Free Code Camp.
